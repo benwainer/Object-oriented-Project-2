@@ -2,18 +2,18 @@
 A turn-based strategy game built in C++.
 The project focuses on object-oriented programming, inheritance, and memory management.
 
-# 🔹  Core Features
+🔹  **Core Features**
 
-# Character Classes:
+**Character Classes**:
 Soldier, Medic, and Sniper — each with unique movement, attack, and reload behavior.
 
-# Game Board:
+ **Game Board**:
 A dynamic grid (Game class) where characters move, attack, and interact.
 
-# Combat System:
+**Combat System**:
 Each character can attack enemies based on range, direction, and special rules.
 
-# Game Logic:
+ **Game Logic**:
 Win condition checks, turn management, and in-game error handling via custom exceptions.
 
 # ⚙️ Technical Highlights
