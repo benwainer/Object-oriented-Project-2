@@ -16,7 +16,7 @@ Each character can attack enemies based on range, direction, and special rules.
  **Game Logic**:
 Win condition checks, turn management, and in-game error handling via custom exceptions.
 
-# ⚙️ Technical Highlights
+⚙️ **Technical Highlights**
 
 Implemented full class hierarchy from a base Character class.
 
@@ -28,6 +28,6 @@ Clean and reusable OOP design following inheritance principles.
 
 Integrated with an original SortedList module for internal data handling.
 
-# 🧠 Concepts Used
+🧠 **Concepts Used**
 
 OOP • Inheritance • Polymorphism • Exception Handling • Smart Pointers
