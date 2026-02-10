@@ -17,23 +17,24 @@ Each character can attack enemies based on range, direction, and special rules.
 Win condition checks, turn management, and in-game error handling via custom exceptions.
 
 🗂️ **Project Structure**
-Game.h / Game.cpp
+
+**Game.h / Game.cpp**
 Core game logic and engine implementation.
 Manages the board, turn flow, win conditions, and interaction between characters.
 
-Character.h / Character.cpp
+**Character.h / Character.cpp**
 Abstract base class defining common behavior for all characters.
 
-Soldier.h / Soldier.cpp
+**Soldier.h / Soldier.cpp**
 Implements soldier-specific movement, attack, and reload logic.
 
-Medic.h / Medic.cpp
+**Medic.h / Medic.cpp**
 Implements healing mechanics and support behavior.
 
-Sniper.h / Sniper.cpp
+**Sniper.h / Sniper.cpp**
 Implements long-range attack rules and special targeting logic.
 
-SortedList
+**SortedList**
 Custom module used for internal data handling.
 
 💡 Entry point for understanding the game logic:
